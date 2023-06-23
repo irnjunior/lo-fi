@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:9.889444,
+summer-night0.ts
+#EXTINF:9.868989,
+summer-night1.ts
+#EXTINF:9.869200,
+summer-night2.ts
+#EXTINF:9.857522,
+summer-night3.ts
+#EXTINF:9.160967,
+summer-night4.ts
+#EXT-X-ENDLIST
